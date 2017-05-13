@@ -1,0 +1,7 @@
+	Problem							Solution	
+single-source connectivity 		DepthFirstSearch
+single-source paths	        	DepthFirstPaths
+single-source shortest paths 	BreadthFirstPaths 
+connectivity 					CC 
+cycle detection 				Cycle 
+two-colorability(bipartiteness) TwoColor 
